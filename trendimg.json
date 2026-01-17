@@ -1,242 +1,242 @@
 [
   {
     "id": 1,
-    "title": "Geometric Abstract Patterns",
-    "category": "Backgrounds",
-    "base_prompt": "Seamless geometric abstract pattern with hexagons and triangles, modern minimalist design, blue and gold color scheme, high resolution texture, wallpaper style"
+    "title": "Abstract Geometric Backgrounds",
+    "category": "Backgrounds/Abstract",
+    "base_prompt": "Seamless geometric abstract pattern with hexagons triangles flowing waves, modern minimalist design, blue purple gold gradient, high resolution 8K texture, wallpaper commercial use"
   },
   {
     "id": 2,
-    "title": "Paper Texture Backgrounds",
-    "category": "Backgrounds",
-    "base_prompt": "Realistic crumpled white paper texture background, subtle shadows, soft lighting, high detail, perfect for overlay effects, tactile feel"
+    "title": "Paper Texture Overlays",
+    "category": "Backgrounds/Abstract", 
+    "base_prompt": "Realistic crumpled white paper texture background subtle shadows, soft diffused lighting, high detail tactile surface, perfect for overlay effects, vintage scrapbook style"
   },
   {
     "id": 3,
-    "title": "Glitter Backgrounds",
-    "category": "Backgrounds",
-    "base_prompt": "Sparkling gold glitter background with bokeh effect, festive luxury texture, seamless, 8K resolution, glamor party atmosphere"
+    "title": "Luxury Glitter Textures",
+    "category": "Backgrounds/Abstract",
+    "base_prompt": "Sparkling gold silver glitter background bokeh effect, festive luxury texture seamless, 8K resolution glamor party atmosphere, champagne sparkle wedding invitation"
   },
   {
     "id": 4,
     "title": "Solid Color Gradients",
-    "category": "Backgrounds",
-    "base_prompt": "Smooth solid navy blue gradient background, subtle texture, professional corporate use, ultra high definition, clean layout for copy space"
+    "category": "Backgrounds/Abstract",
+    "base_prompt": "Smooth navy blue purple gradient background subtle noise texture, professional corporate use ultra HD, clean layout copy space, web app UI design modern minimalism"
   },
   {
     "id": 5,
-    "title": "Home Office Setups",
-    "category": "Business",
-    "base_prompt": "Cozy modern home office with laptop, coffee mug, plants, natural daylight, productive workspace aesthetic, interior design photography"
+    "title": "Diverse Business Meetings",
+    "category": "Business/People",
+    "base_prompt": "Modern diverse multicultural business team office meeting, collaborative discussion pointing charts laptops, natural daylight inclusive representation professional corporate"
   },
   {
     "id": 6,
-    "title": "Future Tech Gadgets",
-    "category": "Technology",
-    "base_prompt": "Futuristic smartphone with holographic display, cyberpunk neon lighting, high tech product mockup, sleek glass design, 8k render"
+    "title": "Remote Work Home Office",
+    "category": "Business/Lifestyle",
+    "base_prompt": "Cozy modern home office setup laptop coffee mug plants, natural daylight productive workspace aesthetic, digital nomad remote work environment, video conference ready"
   },
   {
     "id": 7,
-    "title": "Remote Work Lifestyle",
-    "category": "Business",
-    "base_prompt": "Diverse professionals working remotely from beach cafe, laptop video call, relaxed productive atmosphere, digital nomad lifestyle"
+    "title": "Technology Gadgets Mockup",
+    "category": "Technology",
+    "base_prompt": "Futuristic smartphone tablet holographic display, cyberpunk neon lighting high tech product mockup, sleek glass design floating interface, 8K render commercial"
   },
   {
     "id": 8,
-    "title": "Digital Transformation",
-    "category": "Technology",
-    "base_prompt": "Abstract digital transformation concept with data streams flowing into human silhouette, blue cyan tones, big data visualization"
+    "title": "Digital Transformation AI",
+    "category": "Technology/Business",
+    "base_prompt": "Abstract digital transformation concept data streams flowing human silhouette, blue cyan neon tones big data visualization, AI machine learning business innovation"
   },
   {
     "id": 9,
-    "title": "Inclusive Friendship",
-    "category": "Lifestyle",
-    "base_prompt": "Diverse multicultural friends laughing together outdoors, genuine candid moment, inclusive representation, warm sunlight, authentic happiness"
+    "title": "Inclusive Multicultural Groups",
+    "category": "People/Diversity",
+    "base_prompt": "Inclusive multicultural diverse ethnicities group smiling professionals, urban outdoor setting candid lifestyle photo, friendship community representation, warm sunlight"
   },
   {
     "id": 10,
-    "title": "Body Positivity Fashion",
-    "category": "Lifestyle",
-    "base_prompt": "Confident plus-size woman in stylish casual outfit walking city street, natural body positivity portrait, fashion photography, urban daylight"
+    "title": "Body Positive Fashion",
+    "category": "People/Lifestyle",
+    "base_prompt": "Confident plus-size curvy woman stylish casual outfit walking city street, natural body positivity portrait fashion photography, urban daylight empowering confident"
   },
   {
     "id": 11,
     "title": "Multi-Generational Family",
-    "category": "Lifestyle",
-    "base_prompt": "Three generations of smiling family cooking together in kitchen, warm genuine moment, diverse ages, grandmother and grandchild, home atmosphere"
+    "category": "People/Family",
+    "base_prompt": "Three generations smiling happy family cooking kitchen together, warm genuine moment diverse ages grandmother grandchild, home cooking bonding authentic emotion"
   },
   {
     "id": 12,
-    "title": "Sunrise Yoga Nature",
+    "title": "Yoga Wellness Nature",
     "category": "Wellness",
-    "base_prompt": "Athletic woman doing tree pose yoga on mountain cliff at sunrise, serene spiritual atmosphere, golden hour lighting, health and wellness"
+    "base_prompt": "Athletic flexible woman tree pose yoga mountain cliff sunrise, serene spiritual atmosphere golden hour lighting, health mindfulness fitness outdoor nature"
   },
   {
     "id": 13,
-    "title": "Zen Meditation",
+    "title": "Zen Meditation Forest",
     "category": "Wellness",
-    "base_prompt": "Peaceful Buddhist monk meditating in bamboo forest, misty morning light, tranquil zen atmosphere, mindfulness concept"
+    "base_prompt": "Peaceful Buddhist monk sitting meditation bamboo forest, misty morning light tranquil zen atmosphere, mindfulness concept spiritual calm inner peace"
   },
   {
     "id": 14,
-    "title": "Luxury Spa Rituals",
+    "title": "Luxury Spa Self-Care",
     "category": "Wellness",
-    "base_prompt": "Luxury spa setup with candles, essential oils, fresh towels, marble background, relaxing ambiance, aromatherapy concept"
+    "base_prompt": "Luxury spa setup essential oils candles fresh towels marble surface, relaxing ambiance aromatherapy concept, self-care beauty treatment relaxation ritual"
   },
   {
     "id": 15,
-    "title": "Tropical Drone Shot",
-    "category": "Travel",
-    "base_prompt": "Breathtaking drone aerial view of turquoise tropical island surrounded by coral reef, crystal clear water, travel vacation paradise, top down view"
+    "title": "Tropical Island Aerial",
+    "category": "Nature/Travel",
+    "base_prompt": "Breathtaking drone aerial turquoise tropical island coral reef, crystal clear ocean water travel vacation paradise, top-down aerial view luxury destination"
   },
   {
     "id": 16,
-    "title": "Urban Skyline Aerial",
-    "category": "Travel",
-    "base_prompt": "Dramatic drone shot of modern city skyline at golden hour, skyscrapers with warm sunlight reflection, cinematic urban landscape"
+    "title": "City Skyline Golden Hour",
+    "category": "Nature/Urban",
+    "base_prompt": "Dramatic drone shot modern city skyline golden hour sunset, skyscrapers warm sunlight reflection cinematic urban landscape, aerial perspective metropolis"
   },
   {
     "id": 17,
-    "title": "Autumn Pumpkin Patch",
-    "category": "Seasonal",
-    "base_prompt": "Autumn Thanksgiving pumpkin patch with Christmas lights, cozy fall-winter transition theme, rustic wooden texture, orange and warm tones"
+    "title": "Christmas Holiday Background",
+    "category": "Seasonal/Holidays",
+    "base_prompt": "Festive Christmas golden ornaments snowy pine branches warm bokeh lighting, holiday card style winter wonderland, red green gold color palette celebration"
   },
   {
     "id": 18,
-    "title": "American Flag Waving",
-    "category": "Seasonal",
-    "base_prompt": "Patriotic American flag waving dramatically against sunset sky, 4th of July Independence Day, cinematic lighting, national pride"
+    "title": "Diwali Festival Lights",
+    "category": "Seasonal/Holidays",
+    "base_prompt": "Traditional Diwali celebration colorful rangoli patterns diya oil lamps, warm golden lighting festive Indian culture, Hindu festival of lights spiritual"
   },
   {
     "id": 19,
-    "title": "Diwali Celebration",
-    "category": "Seasonal",
-    "base_prompt": "Traditional Diwali celebration with colorful rangoli patterns and diya oil lamps, warm golden lighting, festive indian culture"
+    "title": "Healthy Food Flatlay",
+    "category": "Food",
+    "base_prompt": "Vibrant fresh poke bowl salmon avocado edamame rice, colorful healthy food flatlay overhead shot, studio lighting nutrition diet superfood concept"
   },
   {
     "id": 20,
-    "title": "Healthy Poke Bowl",
-    "category": "Food",
-    "base_prompt": "Vibrant fresh poke bowl with salmon, avocado, edamame, rice, colorful healthy food flatlay, overhead shot, studio lighting"
+    "title": "Sustainable Zero Waste",
+    "category": "Lifestyle/Eco",
+    "base_prompt": "Eco-friendly zero waste lifestyle flatlay reusable products plants, glass jars bamboo toothbrush natural materials, sustainability environmental concept"
   },
   {
     "id": 21,
-    "title": "Zero Waste Lifestyle",
-    "category": "Lifestyle",
-    "base_prompt": "Eco-friendly zero waste lifestyle flatlay with reusable products, plants, natural materials, glass jars, bamboo toothbrush, sustainability concept"
+    "title": "Surreal Dream Floating Islands",
+    "category": "Creative/Abstract",
+    "base_prompt": "Surreal dreamscape floating islands cosmic clouds ethereal fantasy, vibrant surrealism Dali style imagination concept, dreamlike atmospheric perspective"
   },
   {
     "id": 22,
-    "title": "Abstract Flowing Waves",
-    "category": "Backgrounds",
-    "base_prompt": "Abstract geometric gradient background flowing blue purple waves, minimalist, seamless 4K texture, motion graphic style"
+    "title": "AI Robot Interface",
+    "category": "Technology/AI",
+    "base_prompt": "Futuristic AI robot hand touching holographic interface cyberpunk, neon glow high-tech innovation dynamic, human machine connection future technology"
   },
   {
     "id": 23,
-    "title": "Christmas Ornaments",
-    "category": "Seasonal",
-    "base_prompt": "Festive Christmas golden ornaments snowy pine branches, warm lighting holiday card style, bokeh background, winter wonderland"
+    "title": "Beach Yoga Sunrise",
+    "category": "Wellness",
+    "base_prompt": "Woman yoga sunrise beach serene silhouette pose golden hour, wellness lifestyle photorealistic motivational image, ocean waves tropical paradise"
   },
   {
     "id": 24,
-    "title": "Corporate Meeting",
-    "category": "Business",
-    "base_prompt": "Modern diverse business team open office meeting, collaborative natural light corporate photo, pointing at whiteboard, professional attire"
+    "title": "Citrus Sensory Macro",
+    "category": "Creative Trends 2026",
+    "base_prompt": "Macro closeup fresh juicy citrus fruit slices dripping water, hyperrealistic texture sensory experience, vibrant orange yellow water splash food art"
   },
   {
     "id": 25,
-    "title": "Misty Forest Path",
-    "category": "Nature",
-    "base_prompt": "Serene autumn forest path colorful falling leaves, misty photorealistic calming landscape, morning fog, nature hiking trail"
+    "title": "Emotional Family Hug",
+    "category": "People/Connection",
+    "base_prompt": "Multi-ethnic family hugging laughing park sunset genuine, joyful human connection moment emotional bonding, lens flare cinematic family love"
   },
   {
     "id": 26,
-    "title": "Cute Rabbit Portrait",
-    "category": "Animals",
-    "base_prompt": "Cute realistic rabbit meadow wildflowers, soft fur natural lighting adorable pet portrait, eye level shot, bokeh nature background"
+    "title": "Absurd Surreal Banana",
+    "category": "Creative Trends 2026",
+    "base_prompt": "Giant banana riding skateboard candy cloud city absurd, surreal playful AI imagination bright pop colors, 3D render whimsical fantasy"
   },
   {
     "id": 27,
-    "title": "Professional Diversity",
-    "category": "Business",
-    "base_prompt": "Inclusive multicultural smiling professionals urban setting, diverse ethnicities candid lifestyle, business casual, city background"
+    "title": "Batik Artisan Craft",
+    "category": "Culture/Local Flavor",
+    "base_prompt": "Indonesian batik artisan handcrafting traditional patterns, cultural heritage craftsmanship warm lighting, close-up hands fabric authentic detail"
   },
   {
     "id": 28,
-    "title": "Avocado Toast Flatlay",
-    "category": "Food",
-    "base_prompt": "Healthy flatlay avocado toast eggs greens, top view appetizing bright natural light food photo, rustic wooden table, breakfast concept"
+    "title": "Cyber Cat Byte Mascot",
+    "category": "Technology/Mascot",
+    "base_prompt": "Realistic orange tabby cat Byte futuristic AR glasses glowing hexagonal frames, cyber collar crystal core, sci-fi adorable digital companion neon"
   },
   {
     "id": 29,
-    "title": "Surreal Dreamscape",
-    "category": "Creative",
-    "base_prompt": "Surreal dreamscape floating islands cosmic clouds, ethereal fantasy vibrant surrealism Dali style, imagination concept, dreamlike atmosphere"
+    "title": "Cybersecurity Digital Shield",
+    "category": "Technology",
+    "base_prompt": "3D glowing digital shield protecting server room padlock icon, blue binary code background cybersecurity concept, data protection network security"
   },
   {
     "id": 30,
-    "title": "AI Robot Hand",
-    "category": "Technology",
-    "base_prompt": "Futuristic AI robot hand holographic interface, cyberpunk neon high-tech innovation dynamic, human and machine connection"
+    "title": "Senior Fitness Couple",
+    "category": "Lifestyle/Health",
+    "base_prompt": "Active senior couple jogging green park morning light, healthy aging concept fit elderly people, motion blur energetic vibe wellness active lifestyle"
   },
   {
     "id": 31,
-    "title": "Wellness Beach Yoga",
-    "category": "Wellness",
-    "base_prompt": "Woman yoga sunrise beach serene pose, golden hour wellness photorealistic motivational image, silhouette against sun, ocean waves"
+    "title": "EV Electric Car Charging",
+    "category": "Technology/Eco",
+    "base_prompt": "Modern electric vehicle charging solar-powered station futuristic, green energy concept eco-friendly transportation, sunset background sustainable mobility"
   },
   {
     "id": 32,
-    "title": "Sensory Citrus Fruit",
-    "category": "Creative Trends",
-    "base_prompt": "Macro closeup fresh juicy citrus fruit slices dripping water, hyperrealistic texture sensory experience, vibrant orange and yellow, water splash"
+    "title": "Mental Health Blooming",
+    "category": "Wellness/Creative",
+    "base_prompt": "Conceptual head silhouette colorful flowers blooming inside, mental health growth mindfulness positivity, pastel colors therapeutic illustration"
   },
   {
     "id": 33,
-    "title": "Emotional Connection",
-    "category": "Creative Trends",
-    "base_prompt": "Multi-ethnic family hugging laughing park sunset, genuine joyful human connection moment, emotional bonding, lens flare, cinematic"
+    "title": "Fintech Mobile Banking",
+    "category": "Fintech/Business",
+    "base_prompt": "Modern mobile banking app interface smartphone screen, biometric fingerprint scan digital wallet, secure fintech payment UI design clean modern"
   },
   {
     "id": 34,
-    "title": "Surreal Banana Skater",
-    "category": "Creative Trends",
-    "base_prompt": "Giant banana riding skateboard through candy cloud city, absurd surreal playful AI imagination, bright pop colors, 3d render style"
+    "title": "Telemedicine Doctor Call",
+    "category": "Healthcare",
+    "base_prompt": "Doctor video call telemedicine consultation laptop screen, patient home consultation healthcare technology, professional medical virtual meeting"
   },
   {
     "id": 35,
-    "title": "Indonesian Batik Craft",
-    "category": "Culture",
-    "base_prompt": "Indonesian batik artisan handcrafting traditional patterns, cultural heritage craftsmanship, warm lighting, close up on hands and fabric, authentic detail"
+    "title": "Online E-Learning Class",
+    "category": "Education",
+    "base_prompt": "Diverse students online e-learning class tablet laptop, virtual classroom education technology, interactive digital learning environment"
   },
   {
     "id": 36,
-    "title": "Cyber Cat 'Byte'",
-    "category": "Mascot Character",
-    "base_prompt": "A realistic orange tabby cat named Byte with soft fluffy fur, wearing futuristic AR glasses with glowing blue hexagonal frames. High-tech cyber collar with crystal core. Sci-fi aesthetic, adorable digital companion, neon lighting."
+    "title": "Solar Renewable Energy",
+    "category": "Eco/Technology",
+    "base_prompt": "Solar panel farm renewable energy golden hour sunset, green sustainable power clean energy transition, aerial landscape environmental technology"
   },
   {
     "id": 37,
-    "title": "Cybersecurity Shield",
-    "category": "Technology",
-    "base_prompt": "3D render of a glowing digital shield protecting a server room, padlock icon, blue binary code background, cybersecurity concept, data protection"
+    "title": "AI Daily Assistant",
+    "category": "Technology/AI",
+    "base_prompt": "Person working with AI virtual assistant holographic display, productivity daily workflow integration, futuristic office smart AI companion"
   },
   {
     "id": 38,
-    "title": "Active Senior Fitness",
-    "category": "Lifestyle",
-    "base_prompt": "Active senior couple jogging in a green park morning light, healthy aging concept, fit elderly people, motion blur, energetic vibe"
+    "title": "Crypto Digital Wallet",
+    "category": "Fintech",
+    "base_prompt": "Blockchain cryptocurrency digital wallet smartphone app, NFT tokens secure vault, modern fintech crypto investment interface clean UI"
   },
   {
     "id": 39,
-    "title": "EV Charging Station",
-    "category": "Technology",
-    "base_prompt": "Modern electric vehicle charging at a solar-powered station, futuristic car design, green energy concept, eco-friendly transportation, sunset background"
+    "title": "Wearable Health Tracker",
+    "category": "Healthcare/Technology",
+    "base_prompt": "Smartwatch wearable health tracker monitoring heart rate, fitness data analytics wrist device, modern health tech personal wellness monitoring"
   },
   {
     "id": 40,
-    "title": "Mental Health Art",
-    "category": "Creative",
-    "base_prompt": "Conceptual art of a head silhouette with colorful flowers blooming inside, representing mental health growth, mindfulness, and positivity, pastel colors"
+    "title": "Green City Infrastructure",
+    "category": "Eco/Urban",
+    "base_prompt": "Futuristic green sustainable city vertical gardens solar panels, eco-friendly urban planning climate resilient architecture, aerial drone view"
   }
 ]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Startup Founder",
+    "category": "Business",
+    "base_prompt": "A charismatic startup founder presenting a pitch deck"
+  },
+  {
+    "id": 2,
+    "title": "Medical Professional",
+    "category": "Healthcare",
+    "base_prompt": "A caring doctor consulting with a patient using a tablet"
+  },
+  {
+    "id": 3,
+    "title": "Creative Artist",
+    "category": "Creative",
+    "base_prompt": "An focused artist painting on a large canvas in a sunlit studio"
+  },
+  {
+    "id": 4,
+    "title": "Remote Developer",
+    "category": "Tech",
+    "base_prompt": "A software engineer coding with multiple monitors and coffee"
+  },
+  {
+    "id": 5,
+    "title": "Fitness Trainer",
+    "category": "Lifestyle",
+    "base_prompt": "An energetic fitness coach leading a yoga session outdoors"
+  },
+  {
+    "id": 6,
+    "title": "Corporate Team",
+    "category": "Business",
+    "base_prompt": "A diverse group of professionals having a lively meeting"
+  }
+]

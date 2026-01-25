@@ -1,38 +1,92 @@
 [
   {
     "id": 1,
-    "title": "Startup Founder",
-    "category": "Business",
-    "base_prompt": "A charismatic startup founder presenting a pitch deck"
+    "title": "Startup Founder Pitching Investors",
+    "category": "Business/People",
+    "base_prompt": "Charismatic young startup founder presenting a pitch deck to investors in a modern glass office, diverse audience, big screen with colorful charts and startup metrics, confident body language, authentic candid moment, corporate branding friendly, cinematic lighting"
   },
   {
     "id": 2,
-    "title": "Medical Professional",
-    "category": "Healthcare",
-    "base_prompt": "A caring doctor consulting with a patient using a tablet"
+    "title": "Modern Medical Consultation",
+    "category": "Healthcare/People",
+    "base_prompt": "Caring doctor consulting with a patient using a digital tablet in a bright clean clinic, diverse healthcare team in background, modern telemedicine concept, warm natural light, reassuring body language, authentic real life moment, commercial friendly composition"
   },
   {
     "id": 3,
-    "title": "Creative Artist",
-    "category": "Creative",
-    "base_prompt": "An focused artist painting on a large canvas in a sunlit studio"
+    "title": "Focused Creative Artist at Work",
+    "category": "Creative/People",
+    "base_prompt": "Focused artist painting on a large canvas in a sunlit studio, messy creative workspace, paint splashes, casual modern outfit, lifestyle creative entrepreneur vibe, authentic candid process moment, emotional connection to art, soft natural daylight"
   },
   {
     "id": 4,
-    "title": "Remote Developer",
-    "category": "Tech",
-    "base_prompt": "A software engineer coding with multiple monitors and coffee"
+    "title": "Remote Developer in Home Office",
+    "category": "Tech/Remote Work",
+    "base_prompt": "Software engineer coding with multiple monitors and coffee in a cozy home office, remote work setup with laptop, plants and ambient light, casual hoodie outfit, realistic screen code, hybrid work lifestyle, productive atmosphere, commercial tech branding friendly"
   },
   {
     "id": 5,
-    "title": "Fitness Trainer",
-    "category": "Lifestyle",
-    "base_prompt": "An energetic fitness coach leading a yoga session outdoors"
+    "title": "Outdoor Fitness Trainer Session",
+    "category": "Lifestyle/Fitness",
+    "base_prompt": "Energetic fitness coach leading a group workout session outdoors in a city park, diverse participants different body types, sunrise golden hour light, motivational body language, healthy lifestyle concept, social media friendly composition, authentic candid expressions"
   },
   {
     "id": 6,
-    "title": "Corporate Team",
-    "category": "Business",
-    "base_prompt": "A diverse group of professionals having a lively meeting"
+    "title": "Diverse Corporate Team Meeting",
+    "category": "Business/Teamwork",
+    "base_prompt": "Diverse group of professionals having a lively meeting around a table in a modern office, mixed ages and ethnicities, inclusive business teamwork, sticky notes and laptop on desk, candid conversation moment, natural daylight, emotional connection and collaboration vibe"
+  },
+  {
+    "id": 7,
+    "title": "Hybrid Work Video Conference",
+    "category": "Business/Remote Work",
+    "base_prompt": "Mixed gender manager leading a video conference on laptop from modern home office, diverse team appearing on screen in grid layout, hybrid work lifestyle, natural window light, casual smart outfit, realistic UI interface, relatable everyday business scene"
+  },
+  {
+    "id": 8,
+    "title": "Young Entrepreneur in Coffee Shop",
+    "category": "Business/Lifestyle",
+    "base_prompt": "Smiling young entrepreneur working on laptop in trendy coffee shop, smartphone and notebook on table, warm cozy interior, natural window light, casual streetwear outfit, freelance digital nomad vibe, authentic candid people photography, social media ready composition"
+  },
+  {
+    "id": 9,
+    "title": "Healthcare Innovation Doctor",
+    "category": "Healthcare/Technology",
+    "base_prompt": "Doctor in white coat interacting with futuristic digital medical interface, hologram health icons and data floating in air, hospital background softly blurred, concept of healthcare innovation 2026, clean blue and white color palette, high tech but human centered"
+  },
+  {
+    "id": 10,
+    "title": "Happy Multi-Generational Family at Home",
+    "category": "People/Family",
+    "base_prompt": "Multi-generational family sitting together on living room sofa, grandparents parents and children laughing, warm cozy home interior, natural daylight through window, emotional connection and authentic expressions, lifestyle family portrait suitable for insurance and banking ads"
+  },
+  {
+    "id": 11,
+    "title": "Body Positive Fashion Portrait",
+    "category": "People/Lifestyle",
+    "base_prompt": "Confident plus size woman standing in stylish casual outfit on city street, soft natural light, relaxed pose, body positive message, urban background slightly blurred, authentic real beauty concept, editorial yet commercial friendly look"
+  },
+  {
+    "id": 12,
+    "title": "Wellness Meditation at Home",
+    "category": "Lifestyle/Wellness",
+    "base_prompt": "Young adult sitting cross legged on yoga mat in bright living room, eyes closed practicing mindfulness meditation, plants and minimal decor around, morning sunlight, calm peaceful mood, mental health and self care concept, social media wellness aesthetic"
+  },
+  {
+    "id": 13,
+    "title": "Customer Support Call Center Agent",
+    "category": "Business/People",
+    "base_prompt": "Friendly call center agent wearing headset, sitting at desk with computer in bright office, diverse coworkers in soft focus background, supportive body language and genuine smile, customer service and customer experience concept, clean corporate look"
+  },
+  {
+    "id": 14,
+    "title": "Teacher in Online Class",
+    "category": "Education/People",
+    "base_prompt": "Smiling teacher explaining lesson in front of laptop camera, home office with books and whiteboard, students visible as small thumbnails on screen, e-learning and online education concept, natural daylight, approachable and trustworthy expression"
+  },
+  {
+    "id": 15,
+    "title": "Doctor Discussing Test Results",
+    "category": "Healthcare/People",
+    "base_prompt": "Doctor and patient sitting at desk in clinic, doctor pointing at medical results on paper and explaining calmly, diverse age representation, reassuring eye contact, realistic medical environment, health checkup and prevention concept, neutral clean background"
   }
 ]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "exp_1",
+    "label": "Senyum Ramah",
+    "icon": "😊",
+    "description": "Senyuman hangat yang natural dan mengundang.",
+    "raw_prompt": "warm friendly smile, showing teeth slightly, approachable expression, soft eye contact, natural happiness, authentic vibe, soft lighting hitting the face"
+  },
+  {
+    "id": "exp_2",
+    "label": "Profesional Serius",
+    "icon": "💼",
+    "description": "Ekspresi tegas untuk profil bisnis/LinkedIn.",
+    "raw_prompt": "confident serious expression, closed mouth, intense focused gaze, executive leadership vibe, strong facial posture, sharp focus, trusted authority look"
+  },
+  {
+    "id": "exp_3",
+    "label": "Tertawa Candid",
+    "icon": "😄",
+    "description": "Momen tertawa lepas yang natural.",
+    "raw_prompt": "genuine laughing expression, eyes crinkled with joy, candid moment, head slightly tilted back, natural happiness, dynamic movement blur, joyful atmosphere"
+  },
+  {
+    "id": "exp_4",
+    "label": "Melamun Estetik",
+    "icon": "🤔",
+    "description": "Pose berpikir atau melihat ke arah lain.",
+    "raw_prompt": "looking away from camera, thoughtful expression, soft dreamy gaze, cinematic mood, side profile angle, contemplative vibe, artistic lighting"
+  },
+  {
+    "id": "exp_5",
+    "label": "Percaya Diri",
+    "icon": "😎",
+    "description": "Tatap mata tajam dengan sedikit senyum smirk.",
+    "raw_prompt": "subtle confident smirk, raised eyebrow, playful yet powerful gaze, charismatic aura, bold eye contact, mysterious charm, high-contrast lighting"
+  },
+  {
+    "id": "exp_6",
+    "label": "Sedih Dramatis",
+    "icon": "😢",
+    "description": "Ekspresi emosional untuk kebutuhan akting/seni.",
+    "raw_prompt": "emotional sad expression, glassy eyes, subtle frown, moody atmosphere, cinematic drama, vulnerability, soft rain-like lighting, deep emotion"
+  }
+]

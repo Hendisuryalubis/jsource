@@ -1,0 +1,44 @@
+[
+  {
+    "id": "outfit_1",
+    "label": "Casual White & Denim",
+    "category": "Casual",
+    "image_preview": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=100",
+    "raw_prompt": "wearing a high-quality white cotton t-shirt layered with a classic blue denim jacket, casual street style, relaxed fit, texture of denim fabric visible"
+  },
+  {
+    "id": "outfit_2",
+    "label": "Executive Business Suit",
+    "category": "Formal",
+    "image_preview": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=100",
+    "raw_prompt": "wearing a tailored navy blue italian business suit, crisp white dress shirt, silk tie, sharp shoulder pads, professional corporate attire, expensive fabric texture"
+  },
+  {
+    "id": "outfit_3",
+    "label": "Smart Casual Turtleneck",
+    "category": "Smart Casual",
+    "image_preview": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=100",
+    "raw_prompt": "wearing a premium black cashmere turtleneck sweater, paired with a beige trench coat draped over shoulders, sophisticated winter look, soft wool texture, intellectual vibe"
+  },
+  {
+    "id": "outfit_4",
+    "label": "Batik Modern Indonesia",
+    "category": "Traditional",
+    "image_preview": "https://images.unsplash.com/photo-1617331206631-c4238e8334b0?w=100",
+    "raw_prompt": "wearing a premium Indonesian Batik shirt with intricate gold and dark brown geometric patterns, formal cut, cultural elegance, detailed fabric print"
+  },
+  {
+    "id": "outfit_5",
+    "label": "Streetwear Hoodie",
+    "category": "Urban",
+    "image_preview": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=100",
+    "raw_prompt": "wearing an oversized beige heavyweight hoodie, streetwear aesthetic, modern urban vibe, comfortable fit, soft cotton fleece texture"
+  },
+  {
+    "id": "outfit_6",
+    "label": "Luxury Evening Wear",
+    "category": "Gala",
+    "image_preview": "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?w=100",
+    "raw_prompt": "wearing high-fashion gala attire (tuxedo with bow tie for male / elegant satin evening gown for female), red carpet look, luxurious fabric sheen, sophisticated elegance"
+  }
+]
